@@ -41,10 +41,10 @@
 
 ### 参考资料
 
-【油管】Write your own Operating System
+【油管】Write your own Operating System    https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M
 
-【B站】自己动手写一个操作系统(上面的加字幕版）
+【B站】自己动手写一个操作系统(上面的加字幕版)    https://www.bilibili.com/video/BV1Ng411x7As
 
-【B站】使用c++编写操作系统（基础知识上解释更详细，油管中文翻版，作为补充）
+【B站】使用c++编写操作系统（基础知识上解释更详细，油管中文翻版，作为补充)    https://www.bilibili.com/video/BV1RX4y157CM
 
 
