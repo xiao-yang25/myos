@@ -10,11 +10,11 @@
 
 ### 遇到的问题：
 
-修改/boot/grub/grub.cfg文件后，重启Ubuntu后无法选择自己写的操作系统。
+1. 修改/boot/grub/grub.cfg文件后，重启Ubuntu后无法选择自己写的操作系统。
 
 解决方案：
 
-step1:
+* step1:
 
   在修改文件前，先进入/etc/default/grub文件，修改三个地方。
   
@@ -26,16 +26,16 @@ step1:
   sudo update-grub
   ```
   
-step2:
+* step2:
 
   修改grub.cfg文件。
   
 ### 运行展示
-启动界面
+* 启动界面
 
 ![image](https://github.com/xiao-yang25/myos/assets/92993462/9555d75f-e23e-472c-85bc-ee514d496771)
 
-运行My Operating System
+* 运行My Operating System
 
 ![image](https://github.com/xiao-yang25/myos/assets/92993462/911fd7ab-71e1-46e3-816f-03eca4a2a9d6)
 
