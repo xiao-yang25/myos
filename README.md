@@ -33,11 +33,11 @@ step2:
 ### 运行展示
 启动界面
 
-![image](https://github.com/xiao-yang25/myos/assets/92993462/71fea927-1af3-47f9-9e00-599c5d4d2b9d)
+![image](https://github.com/xiao-yang25/myos/assets/92993462/9555d75f-e23e-472c-85bc-ee514d496771)
 
 运行My Operating System
 
-![image](https://github.com/xiao-yang25/myos/assets/92993462/1850f765-b268-4784-91b1-4dffe293d25b)
+![image](https://github.com/xiao-yang25/myos/assets/92993462/911fd7ab-71e1-46e3-816f-03eca4a2a9d6)
 
 ### 参考资料
 
