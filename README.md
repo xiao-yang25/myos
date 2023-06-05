@@ -15,6 +15,7 @@
 解决方案：
 
 step1:
+
   在修改文件前，先进入/etc/default/grub文件，修改三个地方。
   
   ```
@@ -26,17 +27,24 @@ step1:
   ```
   
 step2:
+
   修改grub.cfg文件。
   
 ### 运行展示
 启动界面
+
 ![image](https://github.com/xiao-yang25/myos/assets/92993462/71fea927-1af3-47f9-9e00-599c5d4d2b9d)
 
 运行My Operating System
+
 ![image](https://github.com/xiao-yang25/myos/assets/92993462/1850f765-b268-4784-91b1-4dffe293d25b)
 
 ### 参考资料
+
 【油管】Write your own Operating System
+
 【B站】自己动手写一个操作系统(上面的加字幕版）
+
 【B站】使用c++编写操作系统（基础知识上解释更详细，油管中文翻版，作为补充）
+
 
